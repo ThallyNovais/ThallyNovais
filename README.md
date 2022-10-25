@@ -1,7 +1,7 @@
 ### Olá! Sou a Thallyany 🙋‍♀️
 
 - 📚 Cursando: Técnico de Desenvolvimento de Sistemas no Cotuca - Unicamp
-- 🌱 Estudando: Dessenvolvimento Web Full Stack
+- 🌱 Estudando: Desenvolvimento Web Full Stack
 - 😄 Pronomes: Ela/dela
 - 📌 Observação: Em busca de uma oportunidade! 
 
