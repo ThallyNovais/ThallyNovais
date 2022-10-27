@@ -3,7 +3,7 @@
 - 📚 Cursando: Técnico de Desenvolvimento de Sistemas no Cotuca - Unicamp
 - 🌱 Estudando: Desenvolvimento Web Full Stack
 - 😄 Pronomes: Ela/dela
-- 📌 Observação: Em busca de uma oportunidade! 
+- 📌 Observação: Em busca de uma oportunidade de primeiro estágio! 
 
 ##
 
