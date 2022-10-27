@@ -1,4 +1,4 @@
-### Olá! Sou a Thallyany 🙋‍♀️
+### Olá! Sou a Thallyany 🌷
 
 - 📚 Cursando: Técnico de Desenvolvimento de Sistemas no Cotuca - Unicamp
 - 🌱 Estudando: Desenvolvimento Web Full Stack
